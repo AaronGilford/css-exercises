@@ -33,7 +33,8 @@ body {
 }
 
 .container-2 {
-  flex-direction: column;
+  display: flex;
+  justify-content: space-between;
 }
 
 .icon {
